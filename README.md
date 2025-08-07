@@ -11,7 +11,6 @@
 - 🎓 I'm a **high school undergraduate** and an aspiring **backend developer**
 - 🧠 Currently learning: `Rust` 🦀 and `C`
 - 🔧 Experienced in: `Rust`, `C++`
-- 🤝 Open to collaboration and contributions — [Contact me on Telegram](https://t.me/devsshq)
 
 ---
 

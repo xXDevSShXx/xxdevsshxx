@@ -11,7 +11,7 @@
 - 🎓 I'm a **high school undergraduate** and an aspiring **backend developer**
 - 🧠 Currently learning: `Rust` 🦀 and `C`
 - 🔧 Experienced in: `Rust`, `C++`
-- 🤝 Open to collaboration and contributions — [Contact me on Telegram](https://t.me/devssh)
+- 🤝 Open to collaboration and contributions — [Contact me on Telegram](https://t.me/devsshq)
 
 ---
 
@@ -29,7 +29,7 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://t.me/devssh" target="_blank">
+  <a href="https://t.me/devsshq" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://x.com/DevSSH_" target="_blank">

@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Sepehr Sharifi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Junior+Backend+Developer;Rust+%7C+C%2B%2B+Enthusiast;High+School+Undergraduate;Learning+Rust+and+C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Junior+Backend+Developer+%26+Writer;Rust+%7C+C%2B%2B+Enthusiast;High+School+Undergraduate;Learning+Rust+and+C" alt="Typing SVG" />
 </p>
 
 ---
@@ -59,4 +59,5 @@
 
 ---
 
-<!-- Add this to the root of your GitHub repo with the name `README.md` to display it on your profile -->
+## 💜 My OC
+Read more about my OC: [devssh](devssh.md)

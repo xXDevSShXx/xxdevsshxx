@@ -17,7 +17,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/main/logo/rust-logo-white-outline.svg" alt="Rust" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -44,11 +44,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxdevsshxx&theme=radical" alt="Sepehr's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=xxdevsshxx&theme=radical" alt="Sepehr's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxdevsshxx&theme=radical" alt="Sepehr's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xxdevsshxx&theme=radical" alt="Sepehr's GitHub Stats" />
 </p>
 
 ---

@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **high school undergraduate** and an aspiring **backend developer**
+- 🎓 I'm a **high school graduate** and an aspiring **backend developer**
 - 🧠 Currently learning: `Rust` 🦀 and `C`
 - 🔧 Experienced in: `Rust`, `C++`
 
